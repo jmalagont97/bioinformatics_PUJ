@@ -1,8 +1,0 @@
-organism: Ideonella sakaiensis 201-F6 
-contigs: 2
-bases: 6179873
-CDS: 5496
-rRNA: 6
-repeat_region: 2
-tRNA: 64
-tmRNA: 1
