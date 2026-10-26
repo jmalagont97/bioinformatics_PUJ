@@ -1,5 +1,5 @@
 .hermes/
-data
-data/
+/data/
 **/results/
+**/resultados/
 guides/11.Assambly/Taller5_solucionado.ipynb
